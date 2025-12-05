@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "バイバイレイニー （Still Still Stellar ver.）",
+  "base_artist": "星街すいせい",
+  "createdAt": "2025-12-05T05:50:48.408073Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "バイバイレイニー - Still Still Stellar ver.",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/01_バイバイレイニー_-_Still_Still_Stellar_ver._Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "バイバイレイニー",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/02_バイバイレイニー_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "バイバイレイニー",
+      "artist": "星街すいせい",
+      "has_synced": true,
+      "path": "select/03_バイバイレイニー_星街すいせい.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "バイバイレイニー （Still Still Stellar ver.）",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/04_バイバイレイニー_(Still_Still_Stellar_ver.)_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "バイバイレイニー (Instrumental)",
+      "artist": "Hoshimachi, Suisei",
+      "has_synced": true,
+      "path": "select/05_バイバイレイニー_(Instrumental)_Hoshimachi,_Suisei.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "バイバイレイニー",
+      "artist": "Suisei Hoshimachi",
+      "has_synced": true,
+      "path": "select/06_バイバイレイニー_Suisei_Hoshimachi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "バイバイレイニー（Instrumental）",
+      "artist": "Hoshimachi Suisei",
+      "has_synced": true,
+      "path": "select/07_バイバイレイニー(Instrumental)_Hoshimachi_Suisei.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "バイバイレイニー",
+      "artist": "星街すいせい",
+      "has_synced": false,
+      "path": "select/pl_01_バイバイレイニー_星街すいせい.txt"
+    }
+  ]
+}
